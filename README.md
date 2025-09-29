@@ -3,4 +3,4 @@ Chrome extension that displays adjusted YouTube™ video length and remaining ti
 
 ## Privacy Policy
 This extension does not collect or transmit personal data.  
-Full policy: [View Privacy Policy]()
+Full policy: [View Privacy Policy](https://github.com/ethanol-labs/ethanol-labs.github.io-youtube-playback-time-extension-privacy-policy/blob/main/privacy-policy)
