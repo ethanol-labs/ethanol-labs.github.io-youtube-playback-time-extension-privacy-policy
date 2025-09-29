@@ -1,0 +1,46 @@
+Privacy Policy
+
+Effective Date: September 28, 2025
+
+~~~Overview~~~
+
+This Chrome extension, YouTube™ Playback Speed Time (“the Extension”), is designed to enhance your YouTube viewing experience by displaying adjusted video lengths and remaining times based on playback speed.
+
+We take your privacy seriously. This extension does not collect, transmit, or sell any personal data.
+
+
+~~~Data Collection and Usage~~~
+
+No Personal Data Collection: The Extension does not collect or process any personally identifiable information.
+
+Local Preferences Only: The Extension stores simple UI preferences (e.g., whether to show adjusted total length, remaining ETA, display at 1× speed, notation style, and separator symbol) using Chrome’s built-in chrome.storage.sync API.
+
+These preferences are only used to remember your chosen settings across sessions and devices.
+
+No sensitive or personal categories of data are stored.
+
+On-Page Processing Only: The Extension reads playback speed and video duration from the YouTube player’s DOM to calculate adjusted times. This is processed locally and transiently in your browser and is never transmitted or stored externally.
+
+
+~~~Data Sharing~~~
+
+The Extension does not share any information with third parties.
+
+No network requests are made, and no external APIs are used.
+
+
+~~~Permissions~~~
+
+Host Permissions: The Extension runs solely on https://www.youtube.com/*.
+
+Storage Permission: Required only to save user display preferences.
+
+
+~~~Changes to This Policy~~~
+
+If this privacy policy changes, the updated version will be published at this page.
+
+
+~~~Contact~~~
+
+If you have any questions or concerns about this Privacy Policy, please contact ethanol.labs@gmail.com.
